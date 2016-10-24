@@ -66,7 +66,7 @@ danny = User.new("Danny f", "dannyf", "123")
 danny.post("hello world")
 grill.post("Yo!")
 saber.post("this is the first one")
-
+danny.post("Star Trek")
 danny.add_friend(saber)
 grill.add_friend(danny)
 grill.add_friend(saber)
